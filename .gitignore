@@ -2,3 +2,5 @@ data/
 *.csv
 plots/
 old_files/
+mike/plots/
+caro/plots/

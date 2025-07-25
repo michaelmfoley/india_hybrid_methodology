@@ -5,3 +5,4 @@ old_files/
 mike/plots/
 caro/plots/
 mike/shapefiles/
+mike/icrisat_and_hybrid/*.csv
